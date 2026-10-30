@@ -32,7 +32,7 @@ anpassen. TTL z. B. 3600 Sekunden. Bestehende widersprüchliche Website-A/AAAA-
 oder www-CNAME-Einträge ersetzen. MX, Mail-TXT und andere Mail-Einträge erhalten.
 Die Nameserver müssen nicht gewechselt werden.
 
-6. Der erste Push prüft die Dateien, veröffentlicht aber noch nichts. Nach der
+6. Der Einrichtungscommit mit `[skip pages]` prüft die Dateien, veröffentlicht aber noch nichts. Nach der
    Pages-Aktivierung: **Actions → Publish band website
    → Run workflow** ausführen. Nach erfolgreichem DNS-Check **Enforce HTTPS** setzen.
    Alle späteren Pushes auf `main` prüfen und veröffentlichen automatisch.
@@ -65,8 +65,9 @@ Bildbeschreibungen und grundlegende HTML-Struktur. Der Check läuft auch in Acti
 
 ## Vor der öffentlichen Freischaltung
 
-- Impressumsadresse und Vertretung sind von der bisherigen Seite übernommen;
-  vor dem Livegang die Aktualität prüfen.
+- Impressum und Datenschutz sind ausdrücklich Entwürfe. Die vollständige
+  Anbieteranschrift und der verantwortliche Name fehlen noch und müssen vor
+  dem Livegang mit Freigabe zur öffentlichen Übernahme ergänzt werden.
 - Foto-/Logorechte und eventuelle Fotografen-Nennung prüfen; die Vorlage nennt KRÜT.
 - Datenschutz ist auf das geplante GitHub-Pages-Hosting angepasst und als Entwurf
   zu prüfen, insbesondere Anbieterrollen und Grundlage einer Übermittlung in die USA.
