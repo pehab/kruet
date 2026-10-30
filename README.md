@@ -65,9 +65,8 @@ Bildbeschreibungen und grundlegende HTML-Struktur. Der Check läuft auch in Acti
 
 ## Vor der öffentlichen Freischaltung
 
-- Impressum und Datenschutz sind ausdrücklich Entwürfe. Die vollständige
-  Anbieteranschrift und der verantwortliche Name fehlen noch und müssen vor
-  dem Livegang mit Freigabe zur öffentlichen Übernahme ergänzt werden.
+- Name und Anbieteranschrift wurden mit ausdrücklicher Freigabe des Inhabers
+  aus der bisherigen Website übernommen. Bei Änderungen beide rechtlichen Seiten aktualisieren.
 - Foto-/Logorechte und eventuelle Fotografen-Nennung prüfen; die Vorlage nennt KRÜT.
 - Datenschutz ist auf das geplante GitHub-Pages-Hosting angepasst und als Entwurf
   zu prüfen, insbesondere Anbieterrollen und Grundlage einer Übermittlung in die USA.
